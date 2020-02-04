@@ -6,3 +6,7 @@ the tool.
 
 The following tool is used to generate a specific type of passwords given the victim's birth date and name/names.The tool works by 
 converting and formating the given information into possible password formats.
+
+How to use:
+Make sure that you have downloaded and installed python 3.7
+To run the tool simply enter this command to the terminal (Make sure tha you are in the tool's directory) : "python BGP.py"
